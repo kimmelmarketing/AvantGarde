@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
       <div className="container mx-auto px-6 py-12 text-center">
         <div className="flex justify-center mb-6">
           <img 
-            src="/AVANTGARDE_logo3.png" 
+            src="/AVANTGARDElogo.png" 
             alt="Avant Garde Beverly Hills" 
             className="h-20 w-auto brightness-0 invert opacity-90"
           />

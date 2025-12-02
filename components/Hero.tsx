@@ -14,8 +14,8 @@ const Hero: React.FC = () => {
       ></div>
       {/* Added pt-20 to push content down visually so it floats better below the header */}
       <div className="relative z-10 px-6 pt-20">
-        <h2 className="font-serif text-sm md:text-base uppercase tracking-[0.3em] mb-4">
-          Season of Style
+        <h2 className="font-serif text-xl md:text-2xl uppercase tracking-[0.3em] mb-4">
+          Avant Garde Boutique
         </h2>
         <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl font-bold uppercase tracking-wide leading-tight mb-6">
           Grand Holiday Sale

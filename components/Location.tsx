@@ -38,7 +38,7 @@ const Location: React.FC = () => {
         </div>
         <div className="min-h-[400px] lg:min-h-0">
           <iframe
-            src="https://maps.google.com/maps?width=100%25&height=600&hl=en&q=9612%20Brighton%20Way%2C%20Beverly%20Hills%2C%20CA%2090210+(Avant%20Garde%20Beverly%20Hills)&t=&z=15&ie=UTF8&iwloc=B&output=embed"
+            src="https://maps.google.com/maps?width=100%25&height=600&hl=en&q=Avant%20Garde%20Boutique%209612%20Brighton%20Way%2C%20Beverly%20Hills%2C%20CA%2090210&t=&z=15&ie=UTF8&iwloc=B&output=embed"
             width="100%"
             height="100%"
             style={{ border: 0 }}
